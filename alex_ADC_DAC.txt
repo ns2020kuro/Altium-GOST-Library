@@ -1,0 +1,11 @@
+CSV text has been written to file : alex_ADC_DAC.csv
+
+Library Component Count : 4
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+AD9238BSTZ-65       АЦП 2-канальный 12бит AD9238BSTZ-65 65 Мвыборок/с 2.7В-3.3В LQFP-64 -40...+85°C "Analog Devices"
+ISL5857             ЦАП 1-канальный 12бит +3,3В 260MSPS выход токовый до 20мА ISL5857 SOIC-28 -40...+85°C "Renesas"
+MCP3424-E/SL        АЦП 4-канальный i2c 18бит MCP3424-E/SL  2.7-5.5В SO-14 -40...+85°C "Microchip"
+MCP3424-E/SL_1      АЦП 4-канальный i2c 18бит MCP3424-E/SL  2.7-5.5В SO-14 -40...+85°C "Microchip"
